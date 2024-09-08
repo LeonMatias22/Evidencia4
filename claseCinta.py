@@ -77,30 +77,3 @@ class Cinta_de_correr:
         
         
 
-        
-        
-               
-            
-        
-    
-
-# miCinta = Cinta_de_correr("su marca", "su modelo", 120, 22)
-
-# print(str(miCinta))
-# print("------------------------------------- \n")
-
-# miCinta.iniciar_Ejercicio(int(input("ingrese velocidad: ")), int(input("ingrese tiempo: ")))
-# miCinta.iniciar_Ejercicio(int(input("ingrese velocidad: ")), int(input("ingrese tiempo: ")))
-# miCinta.iniciar_Ejercicio(int(input("ingrese velocidad: ")), int(input("ingrese tiempo: ")))
-
-
-# print('velocidad: ', miCinta.velocidad)
-# print('tiempo: ', miCinta.tiempo)
-# print('cantidad de rutinas: ', len(miCinta))
-# print('rutinas: ', miCinta.rutinas)
-# print("Distancia recorrida: ", miCinta.mostrar_distancia_recorrida_total())
-
-# print(miCinta.tiempo)
-
-        
-
